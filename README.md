@@ -1,4 +1,4 @@
 # immortal
-This is a binary file that when executed, cannot be removed from the computer before a reboot 
-It has no other goal than that.
+This is a binary file that when executed, cannot be removed from the computer before a reboot.<br />
+It has no other goal than that.<br />
 If you find a way to remove it feel free to post a github issue.
