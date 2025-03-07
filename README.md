@@ -32,3 +32,7 @@ To get the code running you can follow these simple example steps.<br />
   ```sh
   immortal/immortal
   ```
+
+## Contributing
+If you want to contribute, you can post a github issue with a way you found to remove the file.
+
